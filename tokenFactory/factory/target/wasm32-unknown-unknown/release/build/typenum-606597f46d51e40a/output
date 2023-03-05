@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/thamer/tokenFactory/factory/target/wasm32-unknown-unknown/release/build/typenum-606597f46d51e40a/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/thamer/tokenFactory/factory/target/wasm32-unknown-unknown/release/build/typenum-606597f46d51e40a/out/op.rs

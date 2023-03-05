@@ -1,0 +1,1 @@
+{"rustc":18250536222580762119,"features":"[]","target":3310758268438181623,"profile":7936567066825342194,"path":12546331496153161628,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"wasm32-unknown-unknown/release/.fingerprint/lazy_static-0d7fd9f2aeb555ff/dep-lib-lazy_static"}}],"rustflags":["-C","link-arg=-s"],"metadata":111743654650316589,"config":0}

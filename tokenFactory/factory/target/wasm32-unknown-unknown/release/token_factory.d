@@ -1,0 +1,1 @@
+/home/thamer/tokenFactory/factory/target/wasm32-unknown-unknown/release/token_factory.wasm: /home/thamer/tokenFactory/factory/src/../../token/res/fungible_token.wasm /home/thamer/tokenFactory/factory/src/lib.rs

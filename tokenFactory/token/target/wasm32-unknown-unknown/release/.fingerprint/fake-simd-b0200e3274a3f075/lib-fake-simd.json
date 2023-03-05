@@ -1,0 +1,1 @@
+{"rustc":18250536222580762119,"features":"[]","target":14372345708857017748,"profile":7936567066825342194,"path":1477422481041095808,"deps":[],"local":[{"CheckDepInfo":{"dep_info":"wasm32-unknown-unknown/release/.fingerprint/fake-simd-b0200e3274a3f075/dep-lib-fake-simd"}}],"rustflags":["-C","link-arg=-s"],"metadata":738266917286170046,"config":0}
