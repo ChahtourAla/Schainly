@@ -1,0 +1,3 @@
+cargo:rerun-if-changed=build/main.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/chatoor/Desktop/Hackathon/contracts/SchainlyPool/contract/target/debug/build/typenum-e6827903df747932/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/chatoor/Desktop/Hackathon/contracts/SchainlyPool/contract/target/debug/build/typenum-e6827903df747932/out/op.rs
